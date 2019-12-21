@@ -1,0 +1,5 @@
+E:\ĐATN\TanShop\TanShop.Common\bin\Debug\TanShop.Common.dll
+E:\ĐATN\TanShop\TanShop.Common\bin\Debug\TanShop.Common.pdb
+E:\ĐATN\TanShop\TanShop.Common\obj\Debug\TanShop.Common.csprojResolveAssemblyReference.cache
+E:\ĐATN\TanShop\TanShop.Common\obj\Debug\TanShop.Common.dll
+E:\ĐATN\TanShop\TanShop.Common\obj\Debug\TanShop.Common.pdb

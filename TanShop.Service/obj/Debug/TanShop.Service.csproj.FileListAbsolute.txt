@@ -1,0 +1,11 @@
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\TanShop.Service.dll
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\TanShop.Service.pdb
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\TanShop.Common.dll
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\TanShop.Data.dll
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\TanShop.Model.dll
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\TanShop.Common.pdb
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\TanShop.Data.pdb
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\TanShop.Model.pdb
+E:\ĐATN\TanShop\TanShop.Service\obj\Debug\TanShop.Service.csprojResolveAssemblyReference.cache
+E:\ĐATN\TanShop\TanShop.Service\obj\Debug\TanShop.Service.dll
+E:\ĐATN\TanShop\TanShop.Service\obj\Debug\TanShop.Service.pdb
