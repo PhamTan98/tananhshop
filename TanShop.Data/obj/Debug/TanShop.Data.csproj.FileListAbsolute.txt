@@ -10,3 +10,7 @@ E:\ĐATN\TanShop\TanShop.Data\bin\Debug\EntityFramework.SqlServer.xml
 E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.csprojResolveAssemblyReference.cache
 E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.dll
 E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.pdb
+E:\ĐATN\TanShop\TanShop.Data\bin\Debug\TanShop.Model.dll
+E:\ĐATN\TanShop\TanShop.Data\bin\Debug\TanShop.Model.pdb
+E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.Migrations.InitialDB.resources
+E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.csproj.GenerateResource.Cache

@@ -47,3 +47,5 @@ E:\ĐATN\TanShop\TanShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\ĐATN\TanShop\TanShop.UnitTest\obj\Debug\TanShop.UnitTest.csprojResolveAssemblyReference.cache
 E:\ĐATN\TanShop\TanShop.UnitTest\obj\Debug\TanShop.UnitTest.dll
 E:\ĐATN\TanShop\TanShop.UnitTest\obj\Debug\TanShop.UnitTest.pdb
+E:\ĐATN\TanShop\TanShop.UnitTest\bin\Debug\EntityFramework.dll
+E:\ĐATN\TanShop\TanShop.UnitTest\bin\Debug\EntityFramework.xml
