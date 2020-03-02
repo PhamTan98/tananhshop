@@ -14,3 +14,9 @@ E:\ĐATN\TanShop\TanShop.Data\bin\Debug\TanShop.Model.dll
 E:\ĐATN\TanShop\TanShop.Data\bin\Debug\TanShop.Model.pdb
 E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.Migrations.InitialDB.resources
 E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.csproj.GenerateResource.Cache
+E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.Migrations.AddErrorTable.resources
+E:\ĐATN\TanShop\TanShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ĐATN\TanShop\TanShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ĐATN\TanShop\TanShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ĐATN\TanShop\TanShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ĐATN\TanShop\TanShop.Data\obj\Debug\TanShop.Data.Migrations.IntergrateAspnetIdentity.resources

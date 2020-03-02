@@ -8,7 +8,7 @@ using TanShop.Model.Models;
 using System.Linq;
 namespace TanShop.Data.Respository
 {
-    public interface IProductCategoryRepository
+    public interface IProductCategoryRepository : IRespository<ProductCategory>
     {
         IEnumerable<ProductCategory> GetByAlias(string alias);
     }

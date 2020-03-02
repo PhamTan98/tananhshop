@@ -28,7 +28,7 @@ namespace TanShop.Model.Models
         [Required]
         public int CategoryID { set; get; }
 
-        [Required]
+        [MaxLength(256)]
         public string Image { set; get; }
 
         [MaxLength(500)]
@@ -44,5 +44,7 @@ namespace TanShop.Model.Models
 
         [ForeignKey("CategoryID")]
         public virtual PostCategory PostCategory { set; get; }
+
+        public virtual IEnumerable<PostTag> PostTags { set; get; }
     }
 }

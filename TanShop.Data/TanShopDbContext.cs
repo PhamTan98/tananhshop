@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNet.Identity.EntityFramework;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -8,7 +9,7 @@ using TanShop.Model.Models;
 
 namespace TanShop.Data
 {
-    public class TanShopDbContext : DbContext
+    public class TanShopDbContext : IdentityDbContext<ApplicationUser>
     {
         public TanShopDbContext() : base("TanShopConnection")
         {
@@ -23,6 +24,7 @@ namespace TanShop.Data
         public DbSet<Page> Pages { set; get; }
         public DbSet<Post> Posts { set; get; }
         public DbSet<PostCategory> PostCategories { set; get; }
+        public DbSet<PostTag> PostTags { set; get; }
         public DbSet<Product> Products { set; get; }
 
         public DbSet<ProductCategory> ProductCategories { set; get; }
@@ -31,8 +33,15 @@ namespace TanShop.Data
         public DbSet<SupportOnline> SupportOnlines { set; get; }
 
         public DbSet<SystemConfig> SystemConfigs { set; get; }
+        public DbSet<Tag> Tags { set; get; }
 
         public DbSet<VisitorStatistic> VisitorStatistics { set; get; }
+        public DbSet<Error> Errors { set; get; }
+
+        public static TanShopDbContext Create()
+        {
+            return new TanShopDbContext();
+        }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

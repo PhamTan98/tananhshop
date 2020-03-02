@@ -11,3 +11,7 @@ E:\ĐATN\TanShop\TanShop.Service\obj\Debug\TanShop.Service.dll
 E:\ĐATN\TanShop\TanShop.Service\obj\Debug\TanShop.Service.pdb
 E:\ĐATN\TanShop\TanShop.Service\bin\Debug\EntityFramework.dll
 E:\ĐATN\TanShop\TanShop.Service\bin\Debug\EntityFramework.xml
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ĐATN\TanShop\TanShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml

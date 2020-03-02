@@ -8,7 +8,7 @@ using TanShop.Model.Models;
 
 namespace TanShop.Data.Repositories
 {
-    public interface IProductRepository
+    public interface IProductRepository : IRespository<Product>
     {
 
     }

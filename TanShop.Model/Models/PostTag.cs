@@ -18,7 +18,7 @@ namespace TanShop.Model.Models
         [Key]
         [MaxLength(50)]
         [Column(TypeName = "varchar", Order = 2)]
-        public int TagID { set; get; }
+        public string TagID { set; get; }
 
         [ForeignKey("PostID")]
         public virtual Post Post { set; get; }

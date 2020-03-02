@@ -8,3 +8,7 @@ E:\ĐATN\TanShop\TanShop.Model\bin\Debug\EntityFramework.SqlServer.xml
 E:\ĐATN\TanShop\TanShop.Model\obj\Debug\TanShop.Model.csprojResolveAssemblyReference.cache
 E:\ĐATN\TanShop\TanShop.Model\obj\Debug\TanShop.Model.dll
 E:\ĐATN\TanShop\TanShop.Model\obj\Debug\TanShop.Model.pdb
+E:\ĐATN\TanShop\TanShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ĐATN\TanShop\TanShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ĐATN\TanShop\TanShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ĐATN\TanShop\TanShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
